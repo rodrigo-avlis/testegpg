@@ -1,0 +1,4 @@
+*.js @francisco-avlis
+*.php @rodrigo-avlis
+.github/ @rodrigo-avlis
+*.go @francisco-avlis @rodrigo-avlis
